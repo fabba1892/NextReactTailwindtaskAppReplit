@@ -14,7 +14,7 @@ const Home: NextPage = () => {
         <H1>Trello 2.0 clone</H1>
       </main>
 
-      <footer className="flex h-24 w-full items-center justify-center border-t">
+      {/* <footer className="flex h-24 w-full items-center justify-center border-t">
         <a
           className="flex items-center justify-center gap-2"
           href="https://replit.com"
@@ -24,7 +24,7 @@ const Home: NextPage = () => {
           Powered by{' '}
           <Image src="/replit.svg" alt="Replit Logo" width={72} height={16} />
         </a>
-      </footer>
+      </footer> */}
     </div>
   )
 }
